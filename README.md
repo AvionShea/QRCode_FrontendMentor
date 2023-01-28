@@ -26,9 +26,9 @@ This is a screenshot of the finished webpage project.
 
 ### Links
 
-- Project URL:(https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Solution URL: [Solution](https://github.com/AvionShea/QRCode_Frontendmentor)
-- Live Site URL: [Live Site](https://qr-code-frontendmentor-eta.vercel.app/)
+- [Project](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- [Solution](https://github.com/AvionShea/QRCode_Frontendmentor)
+- [Live Site](https://qr-code-frontendmentor-eta.vercel.app/)
 
 ## My process
 
